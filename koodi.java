@@ -17,4 +17,6 @@ void TulostetaanHeiSuomi () {
     System.out.println("Hei Suomi!);
 }
 
+Uusi rivi3
 Lisärivi 5
+
